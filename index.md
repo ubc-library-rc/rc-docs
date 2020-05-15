@@ -8,7 +8,6 @@ permalink: /
 
 # Welcome to the UBC Library Research Commons Documentation
 
-[View on GitHub](https://github.com/ubc-library-rc/rc-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 
