@@ -4,6 +4,8 @@ title: Booking online workshops in LibCal
 parent: Workshop and consult setup
 nav_order: 1
 ---
+[//]: # does this work or show up.
+
 # Booking online workshops in LibCal
 1. Choose Research Commons Events ONLINE (if your workshop is in a physical room, choose Research Commons Events) template in LibCal.
 ![](../../assets/images/picktemplate.png)
