@@ -1,9 +1,9 @@
 ---
-nav_exclude: true
 layout: default
 title: Zoom for workshops 
 parent: Workshop and consult setup 
 nav_order: 6
+nav_exclude: true
 ---
 [//]: # this is how you make a hidden comment. For line 2, do not include this line or your document will not show up. For line 3, leave as default for line 4, update with the title of this page for line 5, make sure to use the correct parent title. Go to the original parent markdown to confirm if you are not sure.
 
