@@ -17,7 +17,8 @@ nav_order: 11
 5. On the Download Data Table pop-up screen, choose the file type you would like to select (e.g. Excel, CSV), and click the "Download" button in the bottom-left corner. Leave the default options ("Download all fields" and "Use choice text") selected.    
 ![](../../assets/images/data_download_popup_screen.png)    
 ## Downloading pre-filtered data only
-<p>Qualtrics provides the option of exporting only specified data. To do this, you will need to format the data page to reflect the data you would like to include/exclude.</p>
+Qualtrics provides the option of exporting only specified data. To do this, you will need to format the data page to reflect the data you would like to include/exclude.    
+    
 <b>To hide a column:</b> Click on the column header. Select "Hide".    
 ![](../../assets/images/hide_column.png)    
 <b>To insert a column in a specific location:</b> Hover over a column header adjacent to where you'd like to insert the new column. Click on the "+" sign that appears on the side where you'd like to insert the new column. Select the name of the data you'd like to insert.    
