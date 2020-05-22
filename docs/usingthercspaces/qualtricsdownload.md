@@ -1,13 +1,13 @@
 ---
 layout: default
-title: How to download Qualtics data
+title: How to download Qualtrics data
 parent: Workshop and consult setup
 nav_order: 11
 ---
 
 # How to download Qualtrics data
-## Finding the correct survey in Qualtrics:
-1. Here is the right survey.
+1. Log in to Qualtrics
+2. Select the correct survey (UBC Library Research Commons Feedback)
 ![](../../assets/images/selectingcorrectsurvey.png)
 2. Once the front door is opened, the ON/OFF button will be revealed. It is the tiny black button on the far right side of the controls.
 ![](../../assets/images/lapelmicinternalbuttons.jpg)
