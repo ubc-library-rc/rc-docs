@@ -45,7 +45,7 @@ Use the _Classes_ form to record information about your workshops. Only the _req
 Reports
 -------
 
-All Desk Tracker users can generate reports and export data in .csv
+Everyone with Desk Tracker access can generate reports and export data in .csv
 format from the *Reports* tab. For the
 most flexible output download as .csv using the *Data File Generator*
 link.
