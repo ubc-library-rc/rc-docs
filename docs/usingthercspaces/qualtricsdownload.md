@@ -10,7 +10,9 @@ nav_order: 11
 2. Select the correct survey (UBC Library Research Commons Feedback).    
 
 ![](../../assets/images/select_correct_survey.png)    
+
 3. Select "Data and Analysis" in the top-left corner of the screen.    
+
 ![](../../assets/images/data_analysis_button.png)    
 4. Select "Export & Import", then "Export Data...".    
 ![](../../assets/images/export_data_button.png)    
