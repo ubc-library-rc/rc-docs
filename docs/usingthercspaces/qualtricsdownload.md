@@ -26,7 +26,7 @@ nav_order: 11
 ## Downloading pre-filtered data only
 Qualtrics provides the option of exporting only specified data. To do this, you will need to format the data page to reflect the data you would like to include/exclude.
 
-<b>To hide a column:</b> Click on the column header. Select "Hide".
+<b>To hide a column:</b> Click on the column header. Select "Hide Column".
 
 ![](../../assets/images/hide_column.png)
 
