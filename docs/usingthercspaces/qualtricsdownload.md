@@ -20,6 +20,7 @@ nav_order: 11
 ![](../../assets/images/export_data_button.png)    
 ## Downloading all the data contained within a survey
 5. On the Download Data Table pop-up screen, choose the file type you would like to select (e.g. Excel, CSV), and click the "Download" button in the bottom-left corner. Leave the default options ("Download all fields" and "Use choice text") selected.    
+
 ![](../../assets/images/data_download_popup_screen.png)    
 ## Downloading pre-filtered data only
 Qualtrics provides the option of exporting only specified data. To do this, you will need to format the data page to reflect the data you would like to include/exclude.    
