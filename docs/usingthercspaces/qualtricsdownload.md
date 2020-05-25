@@ -6,7 +6,7 @@ nav_order: 11
 ---
 # How to download Qualtrics data
 1. Log in to Qualtrics.
-2. Select the correct survey (UBC Library Research Commons Feedback).    
+2. Select the correct survey (UBC Library Research Commons Feedback).
 
 ![](../../assets/images/select_correct_survey.png)    
 
