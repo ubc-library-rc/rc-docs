@@ -1,0 +1,21 @@
+# How to import newsletter subscribers from LibCal into Mailchimp
+1. Navigate to the LibCal Homepage (https://libcal.library.ubc.ca/admin/home).
+2. Click on "Event Calendars" at the top of the page.
+3. Click on "Event Explorer" to the right of "UBC Vancouver Library Public Events".
+4. Select the date range in the "From" and "To" fields for workshops you would like to include.
+5. Select "UBC Library Research Commons Workshops Registration Form" in the "Booking Form" field.
+6. Select "Research Commons" in the "Category" field.
+7. Click on "Submit". Any Research Common's workshop held during this time period will appear below.
+8. Click on "Export Data".
+9. Open the downloaded CSV file.
+10. Delete all columns except:
+"First Name"
+"Last Name"
+"Email"
+"Choose your Faculty or Unit from the drop-down."
+"Would you like to receive the UBC Library Research Commons Monthly newsletter (of current offerings and news) at the email address you provided above?"
+11. Login to Mailchimp (https://mailchimp.com/). See documentation for username and password.
+On the right-hand side of the Audience page, click on "View Contacts".
+12. Click on "Add contacts", then "Import contacts".
+13. On the Where do you want to import contacts from? page, select "Copy/paste from file".
+14. Click "Continue" in the lower right-hand corner of the page.
