@@ -1,3 +1,9 @@
+---
+layout: default
+title: How to import newsletter subscribers from LibCal into Mailchimp
+parent: Workshop and consult setup
+nav_order: 11
+---
 # How to import newsletter subscribers from LibCal into Mailchimp
 1. Navigate to the LibCal Homepage (https://libcal.library.ubc.ca/admin/home).
 2. Click on "Event Calendars" at the top of the page.
@@ -14,8 +20,22 @@
 "Email"
 "Choose your Faculty or Unit from the drop-down."
 "Would you like to receive the UBC Library Research Commons Monthly newsletter (of current offerings and news) at the email address you provided above?"
-11. Login to Mailchimp (https://mailchimp.com/). See documentation for username and password.
-On the right-hand side of the Audience page, click on "View Contacts".
-12. Click on "Add contacts", then "Import contacts".
-13. On the Where do you want to import contacts from? page, select "Copy/paste from file".
-14. Click "Continue" in the lower right-hand corner of the page.
+11. Rename the "Email" column to "Email Address" and the "Choose your Faculty or Unit from the drop-down." column to "Faculty".
+12. Move the "Email Address" column so that it is the first column in the series.
+13. Sort the data by the "Would you like to receive the UBC Library Research Commons Monthly newsletter..." column in descending order. ("Yes" responses should be on top.)
+14. Select and copy all the data to the left of a "Yes" reply.
+12. Login to Mailchimp (https://mailchimp.com/). See documentation for username and password.
+12. On the right-hand side of the Audience page, click on "View Contacts".
+13. Click on "Add contacts", then "Import contacts".
+14. On the Where do you want to import contacts from? page, select "Copy/paste from file".
+15. Click "Continue" in the lower right-hand corner of the page.
+16. Paste the data into the "Paste contact info" box.
+17. Click the "I understand that my billing plan may be automatically upgraded." box.
+18. Click "Continue To Match" in the lower right-hand corner of the screen.
+19. You should see "All columns are matched" on the "Import contacts" screen. Click "Continue To Organize" in the lower right-hand corner.
+20. On the "Organize your imported contacts" screen, make sure "Subscribed" is selected under "Choose status if these contacts".
+21. Select the "Update existing contacts" box.
+22. Click "Continue To Review" in the lower right-hand corner of the screen. The following screen should like tlike this:
+23. Click "Import" in the lower right-hand corner.
+
+That's it! Your current number of contacts and subscribers will be listed here:
