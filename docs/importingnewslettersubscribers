@@ -23,15 +23,20 @@ nav_order: 11
 ![](../../assets/images/event_explorer_fields.png)
 
 9. Open the downloaded CSV file.
-10. Delete all columns except:
-"First Name"
-"Last Name"
-"Email"
-"Choose your Faculty or Unit from the drop-down."
-"Would you like to receive the UBC Library Research Commons Monthly newsletter (of current offerings and news) at the email address you provided above?"
+10. Delete all columns, except for these five:
+
+![](../../assets/images/five_columns.png)
+
 11. Rename the "Email" column to "Email Address" and the "Choose your Faculty or Unit from the drop-down." column to "Faculty".
 12. Move the "Email Address" column so that it is the first column in the series.
-13. Sort the data by the "Would you like to receive the UBC Library Research Commons Monthly newsletter..." column in descending order. ("Yes" responses should be on top.)
+
+![](../../assets/images/five_columns_revised.png)
+
+13. Click the filter button in the lower right-hand corner of the "Would you like to receive the UBC Library Research Commons Monthly newsletter..." column header.
+
+![](../../assets/images/filter_button.png)
+
+14. In the filter dialog box,
 
 ![](../../assets/images/filter_popup.png)
 
