@@ -23,6 +23,9 @@ nav_order: 11
 11. Rename the "Email" column to "Email Address" and the "Choose your Faculty or Unit from the drop-down." column to "Faculty".
 12. Move the "Email Address" column so that it is the first column in the series.
 13. Sort the data by the "Would you like to receive the UBC Library Research Commons Monthly newsletter..." column in descending order. ("Yes" responses should be on top.)
+
+![](../../assets/images/filter_popup.png)
+
 14. Select and copy all the data to the left of a "Yes" reply.
 12. Login to Mailchimp (https://mailchimp.com/). See documentation for username and password.
 12. On the right-hand side of the Audience page, click on "View Contacts".
