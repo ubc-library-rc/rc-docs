@@ -7,7 +7,7 @@ nav_order: 1
 [//]: # does this work or show up.
 
 # Booking online workshops in LibCal
-1. If you are a member of the UBC Library Research Commons team, please set up all your LibCal events by logging into LibCal as research.commons@ubc.ca. If you are on another team but also wish to set up the event from the research.commons@ubc.ca account, please connect with one of the team members for login information.
+If you are a member of the UBC Library Research Commons team, please set up all your LibCal events by logging into LibCal as research.commons@ubc.ca. If you are on another team but also wish to set up the event from the research.commons@ubc.ca account, please connect with one of the team members for login information.
 {: .note}
 2. Choose Research Commons Events ONLINE (if your workshop is in a physical room, choose Research Commons Events) template in LibCal.
 ![](../../assets/images/picktemplate.png)
