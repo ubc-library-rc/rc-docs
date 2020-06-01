@@ -40,10 +40,16 @@ nav_order: 11
 
 ![](../../assets/images/filter_popup.png)
 
-14. Select and copy all the data to the left of a "Yes" reply.
+14. Copy the entire table.
 12. Login to Mailchimp (https://mailchimp.com/). See documentation for username and password.
 12. On the right-hand side of the Audience page, click on "View Contacts".
+
+![](../../assets/images/view_contacts.png)
+
 13. Click on "Add contacts", then "Import contacts".
+
+![](../../assets/images/add_import_contacts.png)
+
 14. On the Where do you want to import contacts from? page, select "Copy/paste from file".
 15. Click "Continue" in the lower right-hand corner of the page.
 16. Paste the data into the "Paste contact info" box.
