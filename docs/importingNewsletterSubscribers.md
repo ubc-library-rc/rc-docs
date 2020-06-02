@@ -31,23 +31,23 @@ nav_order: 11
 17. On the right-hand side of the Audience page, click on "View Contacts".
 ![](/assets/images/view_contacts.png)
 18. Click on "Add contacts", then "Import contacts".
-![](/assets/images/add_import_contacts.png)
+![](/assets/add_import_contacts.png)
 19. On the Where do you want to import contacts from? page, select "Copy/paste from file".
-![](/assets/images/copy_paste_file.png)
+![](/assets/copy_paste_file.png)
 20. Click "Continue" in the lower right-hand corner of the page.
 21. Paste the data into the "Paste contact info" box.
-![](/assets/images/paste_excel.png)
+![](/assets/paste_excel.png)
 22. Click the "I understand that my billing plan may be automatically upgraded." box.
-![](/assets/images/billing_plan.png)
+![](/assets/billing_plan.png)
 23. Click "Continue To Match" in the lower right-hand corner of the screen.
 24. You should see "All columns are matched" on the "Import contacts" screen. Click "Continue To Organize" in the lower right-hand corner.
-![](/assets/images/all_columns_matched.png)
+![](/assets/all_columns_matched.png)
 25. On the "Organize your imported contacts" screen, make sure "Subscribed" is selected under "Choose status of these contacts".
-![](/assets/images/subscribed.png)
+![](/assets/subscribed.png)
 26. Select the "Update existing contacts" box.
-![](/assets/images/update_existing_contacts.png)
+![](/assets/update_existing_contacts.png)
 27. Click "Continue To Review" in the lower right-hand corner of the screen. The following screen should like tlike this:
-![](/assets/images/review_page.png)
+![](/assets/review_page.png)
 28. Click "Import" in the lower right-hand corner.
 That's it! Your current number of contacts and subscribers will be listed here:
-![](/assets/images/subscription_number.png)
+![](/assets/subscription_number.png)
