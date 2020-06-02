@@ -31,7 +31,7 @@ nav_order: 11
 17. On the right-hand side of the Audience page, click on "View Contacts".
 ![](../../assets/images/view_contacts.png)
 18. Click on "Add contacts", then "Import contacts".
-![](../../assets/images/add_import_contacts.png)
+![](../../assets/add_import_contacts.png)
 19. On the Where do you want to import contacts from? page, select "Copy/paste from file".
 ![](../../assets/images/copy_paste_file.png)
 20. Click "Continue" in the lower right-hand corner of the page.
