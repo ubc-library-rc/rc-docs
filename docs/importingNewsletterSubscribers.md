@@ -6,7 +6,7 @@ nav_order: 11
 ---
 # How to import newsletter subscribers from LibCal into Mailchimp
 1. Navigate to the LibCal homepage (https://libcal.library.ubc.ca/admin/home).
-2. Click "Event Calendars" at the top of the page.
+2. Click "Event Calendars" at the top of the page.  
 ![](/assets/images/event_calendars.png)
 3. Click "Event Explorer" to the right of "UBC Vancouver Library Public Events".
 ![](/assets/images/event_explorer.png)
