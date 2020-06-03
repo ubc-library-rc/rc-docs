@@ -52,4 +52,4 @@ nav_order: 11
 29. Click "Import" in the lower right-hand corner.  
 
 That's it! Your current number of contacts and subscribers will be listed here:
-![](/assets/subscription_number.png)
+![](/assets/images/subscription_number.png)
