@@ -20,7 +20,7 @@ nav_order: 11
 10. Delete all columns, except for these five:
 ![](/assets/images/five_columns.png)
 11. Rename the "Email" column to "Email Address" and the "Choose your Faculty or Unit from the drop-down." column to "Faculty".
-12. Move the "Email Address" column so that it is the first column in the series.
+12. Move the "Email Address" column, so that it is the first column in the series.
 ![](/assets/images/five_columns_revised.png)
 13. Click the filter button in the lower right-hand corner of the "Would you like to receive the UBC Library Research Commons Monthly newsletter..." column header.  
 ![](/assets/images/filter_button.png)
