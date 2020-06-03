@@ -29,7 +29,7 @@ nav_order: 11
 15. Select and copy the data within the "Email Address", "First Name", "Last Name", and "Faculty" columns, including column headers.
 16. Login to Mailchimp (https://mailchimp.com/). (See documentation for username and password.)
 17. On the right-hand side of the "Audience" page, click "View Contacts".
-![](/assets/images/view_contacts.png)
+![](/assets/view_contacts.png)
 18. Click "Add contacts", then "Import contacts".
 ![](/assets/add_import_contacts.png)
 19. On the "Where do you want to import contacts from?" page, select "Copy/paste from file".
