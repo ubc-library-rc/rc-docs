@@ -6,15 +6,15 @@ nav_order: 11
 ---
 # How to import newsletter subscribers from LibCal into Mailchimp
 1. Navigate to the LibCal homepage (https://libcal.library.ubc.ca/admin/home).
-2. Click on "Event Calendars" at the top of the page.
+2. Click "Event Calendars" at the top of the page.
 ![](/assets/images/event_calendars.png)
-3. Click on "Event Explorer" to the right of "UBC Vancouver Library Public Events".
+3. Click "Event Explorer" to the right of "UBC Vancouver Library Public Events".
 ![](/assets/images/event_explorer.png)
 4. Select the date range in the "From" and "To" fields for workshops you would like to include.
 5. Select "UBC Library Research Commons Workshops Registration Form" in the "Booking Form" field.
 6. Select "Research Commons" in the "Category" field.
-7. Click on "Submit". Any Research Common's workshop held during this time period will appear below.
-8. Click on "Export Data".
+7. Click "Submit". (Any Research Common's workshop held during this time period will appear below.)
+8. Click "Export Data".
 ![](/assets/images/event_explorer_fields.png)
 9. Open the downloaded CSV file.
 10. Delete all columns, except for these five:
@@ -26,13 +26,13 @@ nav_order: 11
 ![](/assets/images/filter_button.png)
 14. In the filter dialog box, unselect "(Select All)". Select "Yes", then click "OK".
 ![](/assets/images/filter_popup.png)
-15. Copy the entire table.
+15. Select and copy the data within the "Email Address", "First Name", "Last Name", and "Faculty" columns, including column headers.
 16. Login to Mailchimp (https://mailchimp.com/). See documentation for username and password.
-17. On the right-hand side of the Audience page, click on "View Contacts".
+17. On the right-hand side of the "Audience" page, click "View Contacts".
 ![](/assets/images/view_contacts.png)
-18. Click on "Add contacts", then "Import contacts".
+18. Click "Add contacts", then "Import contacts".
 ![](/assets/add_import_contacts.png)
-19. On the Where do you want to import contacts from? page, select "Copy/paste from file".
+19. On the "Where do you want to import contacts from?" page, select "Copy/paste from file".
 ![](/assets/copy_paste_file.png)
 20. Click "Continue" in the lower right-hand corner of the page.
 21. Paste the data into the "Paste contact info" box.
