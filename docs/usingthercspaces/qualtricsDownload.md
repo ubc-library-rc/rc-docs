@@ -28,16 +28,16 @@ Qualtrics provides the option of exporting only specified data. To do this, you 
     
 **To hide a column:** Click the column header. Select "Hide Column".
     
-    ![](../../assets/images/hide_column.png)
+![](../../assets/images/hide_column.png)
     
 **To insert a column in a specific location:** Hover over a column header adjacent to where you'd like to insert the new column. Click on the "+" sign that appears on the side where you'd like to insert the new column. Select the name of the data you'd like to insert.
     
-    ![](../../assets/images/add_column.png)
+![](../../assets/images/add_column.png)
   
 **To save a layout:** Click "Tools" on the right-hand side of the screen, then "Save Layouts", and finally "Save as New...".
     
-    ![](../../assets/images/save_layout.png)
+![](../../assets/images/save_layout.png)
     
 Once you have the data in the format you'd like for exporting, select "Export & Import", then "Export Data...". Choose your preferred file type. **Unselect the "Download all fields" button**, and click "Download".
     
-    ![](../../assets/images/data_download_unselect_all_fields.png)
+![](../../assets/images/data_download_unselect_all_fields.png)
