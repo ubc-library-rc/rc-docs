@@ -7,20 +7,13 @@ nav_order: 11
 # How to download Qualtrics data
 1. Log in to Qualtrics (https://ubc.qualtrics.com/).
 2. Select the correct survey (UBC Library Research Commons Feedback).
-    
     ![](../../assets/images/select_correct_survey.png)
-    
 3. Select "Data and Analysis" in the top-left corner of the screen.
-    
     ![](../../assets/images/data_analysis_button.png)
-    
 4. Select "Export & Import", then "Export Data...".
-    
     ![](../../assets/images/export_data_button.png)
-    
 ## Downloading all the data contained within a survey
 5. On the Download Data Table pop-up screen, choose the file type you would like to select (e.g. Excel, CSV), and click the "Download" button in the bottom-left corner. Leave the default options ("Download all fields" and "Use choice text") selected.
-    
     ![](../../assets/images/data_download_popup_screen.png)
     
 ## Downloading pre-filtered data only
