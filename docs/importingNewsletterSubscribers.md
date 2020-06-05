@@ -24,7 +24,7 @@ nav_order: 11
 ![](../assets/images/five_columns_revised.png)
 13. Click the filter button in the lower right-hand corner of the "Would you like to receive the UBC Library Research Commons Monthly newsletter..." column header.    
 ![](../assets/images/filter_button.png)
-14. In the filter dialog box, unselect "(Select All)". Select "Yes", then click "OK".    
+14. In the filter dialog box, unselect "(Select All)". Select "Yes", then "OK".    
 ![](../assets/images/filter_popup.png)
 15. Select and copy the data within the "Email Address", "First Name", "Last Name", and "Faculty" columns, including column headers.
 16. Login to Mailchimp ([https://mailchimp.com/](https://mailchimp.com/)). (See documentation for username and password.)
@@ -47,7 +47,7 @@ nav_order: 11
 ![](../assets/subscribed.png)
 27. Select the "Update existing contacts" box.
 ![](../assets/update_existing_contacts.png)
-28. Click "Continue To Review" in the lower right-hand corner of the screen. The following screen should look like this:
+28. Click "Continue To Review" in the lower right-hand corner of the screen. The following screen should look like this:    
 ![](../assets/review_page.png)
 29. Click "Import" in the lower right-hand corner.
 
