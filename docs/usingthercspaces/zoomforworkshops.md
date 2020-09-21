@@ -83,6 +83,3 @@ Breakout rooms can be used in a variety of scenarios such as when some users are
 1. Before using Breakout rooms in Zoom, it is recommended that you try this feature with your teaching partner to practice for smooth running in your actual workshop.
 2. Learn about Breakout room use here: <a href="https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms" target="_blank">https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms</a>.
 
-
-   
-TEST
