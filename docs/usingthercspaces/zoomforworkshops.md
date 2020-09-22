@@ -16,7 +16,7 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
 1. Make sure you have the following settings:
   * Meeting ID > Generate Automatically
   * Video Host and Video Participant set to off.
-![](../../assets/images/zoomsettings1.png)    
+![](../../assets/images/recommendedsettingswithpasscode.jpg)    
 1. Also, make sure both of these are on:
   * Mute participants upon entry
   * Enable waiting room
