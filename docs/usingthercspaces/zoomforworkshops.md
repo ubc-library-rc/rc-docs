@@ -12,16 +12,23 @@ Note: You will be prompted for your CWL and password.
 
 The Zoom account will be setup within about 2 business days. If you are waiting longer than this, please contact [research.commons@ubc.ca](mailto:research.commons@ubc.ca) email for follow up.    
 
-# Recommended Zoom settings
+# Recommended UBC Library Research Commons Zoom settings
 1. Make sure you have the following settings:
-  * Meeting ID > Generate Automatically
-  * Video Host and Video Participant set to off.
-![](../../assets/images/recommendedsettingswithpasscode.jpg)    
-1. Also, make sure both of these are on:
-  * Mute participants upon entry
-  * Enable waiting room
-  ![](../../assets/images/zoomsettings2.png)   
-1. Enable the Waiting Room and also do a bug work around so that the Waiting Room messaging looks correct following these steps.
+  * Meeting ID > Generate Automatically ON
+  * Security > Passcode and Waiting Room ON 
+  * Video Host and Video Participant OFF
+  * Audio BOTH
+  * Meeting Options 
+    * > Enable Join Before Host OFF
+    * > Mute participants upon entry ON
+    * > Only authenticated users can join OFF
+    * > Breakout room pre-assign OFF (unless you and your Team Lead decide otherwise)
+    * > Automatically record meeting OFF
+![](../../assets/images/recommendedsettingswithpasscode.jpg)   
+
+# Workaround to fix display issue in Waiting Room
+You should only need to do this once to fix the issue. 
+1. With the Waiting Rooom enabled should be enabled in your meeting. A bug work around is needed so that the Waiting Room messaging looks correct.
   * In your Zoom settings (<a href="https://zoom.us/profile/setting" target="_blank">https://zoom.us/profile/setting</a>), enable Waiting Room. 
 ![](../../assets/images/waitingroomenabled.png)
   * Now the pencil icon to the right of Customize the title, logo, and description.
