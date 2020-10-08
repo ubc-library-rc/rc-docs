@@ -1,9 +1,11 @@
 title: UBC Library Research Commons
 description: Documentation
 remote_theme: ubc-library-rc/rc-workshop-template
+
+footer_content: "<a href=\"https://github.com/ubc-library-rc/rc-docs/\">View in GitHub</a>"
+
 license_name: “Creative Commons Attribution 4.0 International License”
 license_url: “http://creativecommons.org/licenses/by/4.0/”
 license_image_url: “https://i/creativecommons.org/l/by/4.0/88x31.png”
-footer_content: "<a href=\"https://github.com/ubc-library-rc/rc-docs/\">View in GitHub</a>"
 
 
