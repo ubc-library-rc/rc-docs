@@ -2,7 +2,7 @@
 ### UBC Library Research Commons
 
 :heavy_exclamation_mark: This documentation is in development and not yet complete. :heavy_exclamation_mark:    
-The homepage of this particular content is: <a href="ubc-library-rc.github.io/rc-docs/">UBC Library Research Commons Documentation</a>
+The homepage of this particular content is: <a href="https://ubc-library-rc.github.io/rc-docs/">UBC Library Research Commons Documentation</a>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
