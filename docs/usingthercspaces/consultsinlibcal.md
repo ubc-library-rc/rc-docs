@@ -35,10 +35,38 @@ Things to keep in mind:
 * Use "Directions Override" when you need to include additional information for a user. For example, you might want to use this if this specific block of availability is in the Digital Scholarship Lab instead of a Consult Room.
 * The default bookable time unit is "60 minutes" with no padding between appointments so setting 1:00pm to 3:00pm means that you are available for 1 60 minute booking. Users can also optionally specify whether they want to book you for a short (30 minutes) or a long consultation (60 minutes) when they book.
 
-4. Customizing default settings under "My Settings". Any changes made here are unique to you and don't affect other users of LibCal appointments.
+# Customising default settings under "My Settings"
 
-The default settings are:
+Any changes made here are unique to you and don't affect other users of LibCal appointments.
+
+The default appointment settings are:
 
 ![](../../assets/images/libcalappointmentsdefaultsettings.png)
 
+The default form questions that students who are booking a session are "Name" and "Email":
+
+![](../../assets/images/defaultformsettings.png)
+
 Each team should connect with their team lead about adding additional questions to the booking form.
+
+4. Setting form fields.
+
+Sometimes it's useful to get additional information from a student or researcher when they are booking you. You can do this by adding questions to the form they fill out in order to request a consult.
+
+In the settings tab page scroll down until you see "Appointment Form Questions" and select "Add Question".
+
+![](../../assets/images/addquestion.png)
+
+A popup should appear that asks you to input question text, format, and whether it is required.
+
+![](../../assets/images/questionpopup.png)
+
+Once you add a question it will appear sequentially in the "Appointment Form Questions" list.
+
+![](../../assets/images/questionadded.png)
+
+To reorder questions scroll to the next set of options on the page "Appointment Form Question Order" and drag the question text to the right position in the bulleted list.
+
+![](../../assets/images/dragtoreorder.png)
+
+Make sure to hit "Update Order" to save your changes.
