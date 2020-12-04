@@ -43,7 +43,7 @@ The default appointment settings are:
 
 ![](../../assets/images/libcalappointmentsdefaultsettings.png)
 
-Consults prioritize members of the UBC. Under "Enable LibAuth Authentication" select "CWL only" to enforce this. If you have any questions about this policy please discuss it with your team lead.
+Consults prioritise members of the UBC community. Under "Enable LibAuth Authentication" select "CWL only" to enforce this. If you have any questions about this policy please discuss it with your team lead.
 
 The default form questions that students who are booking a session are "Name" and "Email":
 
