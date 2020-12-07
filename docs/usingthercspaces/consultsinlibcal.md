@@ -45,7 +45,7 @@ The default appointment settings are:
 
 Consults prioritise members of the UBC community. Under "Enable LibAuth Authentication" select "CWL only" to enforce this. If you have any questions about this policy please discuss it with your team lead.
 
-Zoom links for online consultations are sent to users in the booking confirmation and/or reminder email messages. These must be configured by each GAA (consult your team lead for details).
+Zoom links for online consultations are sent to users in the booking confirmation and/or reminder email messages. These must be configured by each GAA (consult your team lead for details). You can also add your Zoom url to the direction field which will pull it into both messages.
 {: .note}
 
 The default form questions that students who are booking a session are "Name" and "Email":
