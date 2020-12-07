@@ -31,7 +31,7 @@ Summary of themes from discussion at RC GAA Team meeting, Dec 4, 2020. Questions
 
 #### Use the remote machines 
 
-- You can access remote labs here: https://remotelabs.ubc.ca/
+- You can access remote labs here: [https://remotelabs.ubc.ca/](https://remotelabs.ubc.ca/)
 - This can be a great way to create a setup before your consult to demonstrate to your client. 
 - Also works well when client might not have all softwares or files on their machine that you are recommending.
 
@@ -42,13 +42,13 @@ Summary of themes from discussion at RC GAA Team meeting, Dec 4, 2020. Questions
 - Many team members are now using the remote desktop feature in Zoom.
 - Take control of your client's computer so that you can show them on their computer, in their software what they need to do.
 - Remote desktop can prove useful if a language barrier may be involved in the consultation.
-- https://support.zoom.us/hc/en-us/articles/201362673-Requesting-or-giving-remote-control
+- [https://support.zoom.us/hc/en-us/articles/201362673-Requesting-or-giving-remote-control](https://support.zoom.us/hc/en-us/articles/201362673-Requesting-or-giving-remote-control)
 
 #### Use the Annotations (Zoom)
 
 Using the Annotations feature in Zoom is also very useful.
 
-https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on-a-shared-screen-or-whiteboard
+[https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on-a-shared-screen-or-whiteboard](https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on-a-shared-screen-or-whiteboard)
 
 #### Number of team members in consult
 
@@ -66,11 +66,11 @@ https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on
 
 #### Limiting consults to UBC-affiliated folks only
 
-To set up your consults so that they are restricted to UBC only clients, please follow Eka's instructions found here:  https://ubc-library-rc.github.io/rc-docs/docs/usingthercspaces/consultsinlibcal.html > specifically: "Consults prioritize members of the UBC community. Under “Enable LibAuth Authentication” select “CWL only” to enforce this. If you have any questions about this policy please discuss it with your team lead."
+To set up your consults so that they are restricted to UBC only clients, please follow Eka's instructions found here:   [https://ubc-library-rc.github.io/rc-docs/docs/usingthercspaces/consultsinlibcal.html](https://ubc-library-rc.github.io/rc-docs/docs/usingthercspaces/consultsinlibcal.html)> specifically: "Consults prioritize members of the UBC community. Under “Enable LibAuth Authentication” select “CWL only” to enforce this. If you have any questions about this policy please discuss it with your team lead."
 
 #### Repeat clients
 
-- Please refer to our booking policies to guide how many consults you provide to the same client: https://researchcommons.library.ubc.ca/consultation-booking-policies/
+- Please refer to our booking policies to guide how many consults you provide to the same client: [https://researchcommons.library.ubc.ca/consultation-booking-policies/](https://researchcommons.library.ubc.ca/consultation-booking-policies/)
 - Note that the client should be bringing a new question to your consultation (not the same question week after week).
 - If the client is asking you questions that are answered in a workshop, you can tell them to register for a workshop. Consults are reserved for specific questions that are not covered in our workshops.
 
