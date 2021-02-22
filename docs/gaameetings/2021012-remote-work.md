@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Consultations (Feb 12, 2021)
+title: Working remotely (Feb 12, 2021)
 nav_order: 4
 parent: GAA team meetings
 ---
