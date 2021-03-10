@@ -26,8 +26,8 @@ Store your recording on the Zoom cloud. These servers are located in Canada and 
 
 1. Set up your Zoom as you want it to appear on the recording such as Speaker View, Shared Screen etc.
 2. In your Zoom workshop, select Record to Cloud
-3. ![](../../assets/images/Recordtothecloudsimplified.png)
-   When your workshop is over stop the recording. Click Yes to this message: 
+   ![](../../assets/images/Recordtothecloudsimplified.png)
+3. When your workshop is over stop the recording. Click Yes to this message: 
    ![](../../assets/images/Emailwhencloudrecordingready.png)
 
 
