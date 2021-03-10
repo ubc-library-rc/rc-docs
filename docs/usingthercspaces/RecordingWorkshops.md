@@ -26,9 +26,9 @@ Store your recording on the Zoom cloud. These servers are located in Canada and 
 
 1. Set up your Zoom as you want it to appear on the recording such as Speaker View, Shared Screen etc.
 2. In your Zoom workshop, select Record to Cloud
-3. ![image-20210226110402806](C:\Users\serablaze\AppData\Roaming\Typora\typora-user-images\image-20210226110402806.png)
+3. ![](../../assets/images/Recordtothecloudsimplified.png)
    When your workshop is over stop the recording. Click Yes to this message: 
-   ![image-20210226111330601](C:\Users\serablaze\AppData\Roaming\Typora\typora-user-images\image-20210226111330601.png)
+   ![](../../assets/images/Emailwhencloudrecordingready.png)
 
 
 
@@ -38,7 +38,7 @@ Typically the Team Lead will be responsible for distributing the recording to pa
 1. The person who owns the Zoom account used will receive the email message to let them know that the recording is ready.
 2. Login to your Zoom account in a web browser: https://ubc.zoom.us/recording/
 3. Find the recording in the list and click Share.
-4. Decide on the settings for the recording such as recording expiry and whether a password must be entered to view the recording.![image-20210226111957553](C:\Users\serablaze\AppData\Roaming\Typora\typora-user-images\image-20210226111957553.png)
+4. Decide on the settings for the recording such as recording expiry and whether a password must be entered to view the recording.!![](../../assets/images/Sharesettingsforrecordings.png)
 5. Provide the link sharing information to your Team Lead so that they can share it with your attendees.
 
 
