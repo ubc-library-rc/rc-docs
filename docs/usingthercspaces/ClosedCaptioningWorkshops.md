@@ -2,7 +2,7 @@
 layout: default
 title: Closed captioning your workshop
 parent: Workshop and consult setup
-nav_order: 8
+nav_order: 7
 ---
 ## Do I have to include closed captioning with my workshops?
 
