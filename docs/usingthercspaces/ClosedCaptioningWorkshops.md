@@ -31,7 +31,7 @@ If you don't see the Live Transcriptions option in Zoom when you start your work
 
 Ensure Closed Captioning is enabled and the checkbox is selected, as shown:
 
-![image-20210310152844625](C:\Users\serablaze\AppData\Roaming\Typora\typora-user-images\image-20210310152844625.png)
+![](../../assets/images/CCZoomSettings.png)
 
 ### CTLT beta captioning offering
 
