@@ -2,7 +2,7 @@
 layout: default
 title: Recording activities in Desk Tracker
 parent: Workshop and consult setup
-nav_order: 7
+nav_order: 8
 ---
 
 Recording activities in Desk Tracker
