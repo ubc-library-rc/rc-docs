@@ -41,8 +41,3 @@ Typically the Team Lead will be responsible for distributing the recording to pa
 3. Find the recording in the list and click Share.
 4. Decide on the settings for the recording such as recording expiry and whether a password must be entered to view the recording.!![](../../assets/images/Sharesettingsforrecordings.png)
 5. Provide the link sharing information to your Team Lead so that they can share it with your attendees.
-
-
-# Making recordings available on the RC website
-
-If you decide with your team leads to make recordings permanently available on the RC website, then be sure not to post an expiring link. Please also send an email to research.commons@ubc.ca so that the team is aware of the new recording and can refer new client inquiries as appropriate. In these cases, please do not make a password required to access the link.
