@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Payroll process for RC GAAs
-parent: gaaonboarding
+parent: GAA on-boarding
 nav_order: 2
 ---
 
@@ -19,7 +19,7 @@ For information on paydays and pay periods, please refer to the following, taken
 
 >All employees at UBC will be paid on the 15th and last day of the month. If you are paid hourly, your payday on the 15th will include hours worked from the 24th day of the previous month to the 8th day of the current month. Your end-of-the-month pay will include hours worked from the 9th to the 23rd of the current month. Paydays falling on holidays or weekends are moved to the preceding non-holiday day.
 
-You can access a PDF copy of UBC's 2021 pay schedule at <a href="https://finance.ubc.ca/sites/finserv.ubc.ca/files/2021_PaySchedule.pdf">https://finance.ubc.ca/sites/finserv.ubc.ca/files/2021_PaySchedule.pdf</a>.
+You can access a PDF copy of UBC's current pay schedule by clicking the button under "Payroll Calendar" at <a href="https://finance.ubc.ca/payroll/procedures-resources-administrators">https://finance.ubc.ca/payroll/procedures-resources-administrators</a>.
 
 In the event you have any questions regarding your pay associated with your Research Commons position, please contact Brett Dimond (primary Timekeeper) at brett.dimond@ubc.ca or 604-827-0746. In the event you are unable to reach him, please contact Sarah Blay (secondary Timekeeper) at sarah.blay@ubc.ca.
 
