@@ -3,6 +3,7 @@ layout: default
 title: Booking consults rooms
 parent: GAA on-boarding
 nav_order: 9
+published: false
 ---
 # Booking consult rooms
 You don't have to worry about booking your consult room for your usual three hours of consults per week. The UBC Library Research Commons Program Manager will block those hours on your behalf. The rooms are heavily used though, and sometimes you may decide to book an appointment outside your normal hours. In this case you need to book the room yourself.
