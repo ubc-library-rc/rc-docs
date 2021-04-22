@@ -8,7 +8,7 @@ nav_order: 8
 
 ## UBC Library Research Commons monthly newsletter
 - Sign up for the UBC Library Research Commons newsletter at:
-[http://bit.ly/UBCRCnewssubscribe](http://bit.ly/UBCRCnewssubscribe)
+[https://e1.envoke.com/ext/pages/24ad24e2e616f7f5f4860494c580f9c3](https://e1.envoke.com/ext/pages/24ad24e2e616f7f5f4860494c580f9c3)
 - This newsletter is released at the beginning of the semester and then at the beginning of each month.
 
 ## Graduate and Postdoctoral Studies newsletter
