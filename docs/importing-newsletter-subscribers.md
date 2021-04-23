@@ -1,17 +1,18 @@
 ---
 layout: default
-title: How to import newsletter subscribers from LibCal into Mailchimp
+title: How to import newsletter subscribers from LibCal into Envoke
 parent: Workshop and consult setup
 nav_order: 11
 ---
-# How to import newsletter subscribers from LibCal into Mailchimp
+## How to import newsletter subscribers from LibCal into Envoke
 1. Navigate to the LibCal homepage ([https://libcal.library.ubc.ca/admin/home](https://libcal.library.ubc.ca/admin/home)).
 2. Click "Event Calendars" at the top of the page.
 ![](../assets/images/event_calendars.png)
 3. Click "Event Explorer" to the right of "UBC Vancouver Library Public Events".
 ![](../assets/images/event_explorer.png)
 4. Select the date range in the "From" and "To" fields for workshops you would like to include.
-5. Select "UBC Library Research Commons Workshops Registration Form" in the "Booking Form" field.
+5. Select "NEW UBC Library Research Commons Workshops Registration Form" in the "Booking Form" field.
+  > NOTE: It is important to select the form beginning with "NEW".
 6. Select "Research Commons" in the "Category" field.
 7. Click "Submit". (Any Research Common's workshop held during this time period will appear below.)
 8. Click "Export Data".
