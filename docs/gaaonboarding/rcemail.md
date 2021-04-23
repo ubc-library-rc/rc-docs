@@ -2,7 +2,8 @@
 layout: default
 title: research.commons@ubc.ca email
 parent: GAA on-boarding
-nav_order: 4
+nav_exclude: true
+
 ---
 # research.commons@ubc.ca email
 
