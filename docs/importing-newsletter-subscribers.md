@@ -18,7 +18,7 @@ nav_order: 11
 8. Click "Export Data".
 ![](../assets/images/event_explorer_fields.png)
 9. Open the downloaded CSV file.
-10. Delete all columns, except for these five:
+10. Delete all columns, except for "First name", "Last name", and "Email address".
 ![](../assets/images/five_columns.png)
 11. Rename the "Email" column to "Email Address" and the "Choose your Faculty or Unit from the drop-down." column to "Faculty".
 12. Move the "Email Address" column, so that it is the first column in the series.
@@ -28,7 +28,7 @@ nav_order: 11
 14. In the filter dialog box, unselect "(Select All)". Select "Yes", then "OK".    
 ![](../assets/images/filter_popup.png)
 15. Select and copy the data within the "Email Address", "First Name", "Last Name", and "Faculty" columns, including column headers.
-16. Login to Mailchimp ([https://mailchimp.com/](https://mailchimp.com/)). (See documentation for username and password.)
+16. Login to Envoke ([https://login.envoke.com/login.html](https://login.envoke.com/login.html)). (See documentation for username and password.)
 17. On the right-hand side of the "Audience" page, click "View Contacts".
 ![](../assets/view_contacts.png)
 18. Click "Add contacts", then "Import contacts".
