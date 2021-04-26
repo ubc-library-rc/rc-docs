@@ -34,14 +34,14 @@ nav_order: 11
 18. Save the file as a CSV.
 19. Login to Envoke ([https://login.envoke.com/login.html](https://login.envoke.com/login.html)).
 20. From the top-left "Contacts" dropdown, select "Import".
-![](../assets/contacts_dropdown.png)
+![](../assets/images/contacts_dropdown.png)
 21. Drag or click anywhere within the upload box to import your file.
-![](../assets/upload_box.png)
+![](../assets/images/upload_box.png)
 22. Ensure the data was imported correctly and that the fields were properly mapped in Steps 1 and 2.
 23. Under "Step 3: List assignment and consent", click the "Select an existing subscription" box, and select "UBC Library Research Commons Newsletter".
 24. Click the "Select consent status" box, and select "Implied - No Expiry".
 25. Click the "Update consent status for existing contacts" radio button.
-![](../assets/step_3.png)
+![](../assets/images/step_3.png)
 26. In the "Describe where the contacts are from and how consent was obtained..." box, enter wording to the effect of:
     > Contacts imported from UBC Library LibCal database. Consent explicitly acquired through workshop registration form, which asks participants whether they would like to receive the UBC Library Research Commons Newsletter.
 27. Click the "Import" button in the bottom-right corner.
