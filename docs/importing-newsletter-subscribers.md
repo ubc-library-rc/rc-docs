@@ -43,7 +43,7 @@ nav_order: 11
 25. Click the "Update consent status for existing contacts" radio button.
 ![](../assets/images/step_3.png)
 26. In the "Describe where the contacts are from and how consent was obtained..." box, enter wording to the effect of:
-    > Contacts imported from UBC Library LibCal database. Consent explicitly acquired through workshop registration form, which asks participants whether they would like to receive the UBC Library Research Commons Newsletter.
+    > Contacts imported from UBC Library LibCal database. Consent explicitly acquired through workshop registration form, which asks registrants whether they would like to receive the UBC Library Research Commons Newsletter.
 27. Click the "Import" button in the bottom-right corner.
 
 That's it! You should receive a confirmation email, like the one below, with import information regarding your contact list.
