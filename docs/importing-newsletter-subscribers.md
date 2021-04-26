@@ -19,7 +19,7 @@ nav_order: 11
 7. Select "Research Commons" in the "Category" field.
 8. Click "Submit". (Any Research Commons' workshop held during this time period will appear below.)
 9. Click "Export Data".
-![](../assets/images/event_explorer_fields.png)
+![](../assets/images/export_fields.png)
 10. Open the downloaded CSV file.
 11. Delete all columns, except for (1) "First Name", (2) "Last Name", (3) "Email", and (4) the one which asks whether participants would like to receive the newsletter.
 ![](../assets/images/column_names.png)
