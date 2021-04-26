@@ -23,7 +23,7 @@ nav_order: 11
 10. Open the downloaded CSV file.
 11. Delete all columns, except for (1) "First Name", (2) "Last Name", (3) "Email", and (4) the one which asks whether participants would like to receive the newsletter.
 ![](../assets/images/column_names.png)
-12. If using Microsoft Excel, convert the worksheet into a table. (Select any cell within the desired table, and press Ctrl + t. In the pop-up window, check the box labeled "My table has headers", and select "OK".)
+12. If using Microsoft Excel, convert the worksheet into a table. (Select any cell within the desired table, and press "Ctrl + t". In the pop-up window, check the box labeled "My table has headers", and select "OK".)
 13. Click the filter button in the lower right-hand corner of the "Would you like to receive the UBC Library Research Commons Monthly newsletter..." column header.    
 ![](../assets/images/filter_button.png)
 14. In the filter dialog box, unselect "(Select All)". Select "Yes", then "OK".    
