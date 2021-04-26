@@ -17,7 +17,7 @@ nav_order: 11
 6. Select "NEW UBC Library Research Commons Workshops Registration Form" in the "Booking Form" field.
     > NOTE: It is important to select the form beginning with "NEW".
 7. Select "Research Commons" in the "Category" field.
-8. Click "Submit". (Any Research Common's workshop held during this time period will appear below.)
+8. Click "Submit". (Any Research Commons' workshop held during this time period will appear below.)
 9. Click "Export Data".
 ![](../assets/images/event_explorer_fields.png)
 10. Open the downloaded CSV file.
