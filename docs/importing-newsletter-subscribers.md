@@ -6,7 +6,7 @@ nav_order: 11
 ---
 ## How to import newsletter subscribers from LibCal into Envoke
 1. Log in to LibCal as the Research Commons at [https://library-ubc-ca.libapps.com/libapps/login.php](https://library-ubc-ca.libapps.com/libapps/login.php).
-  > See documentation for username and password.
+    > See documentation for username and password.
 2. Under the top-left "LibApps" dropdown, select "LibCal".
 ![](../assets/images/libcal_dropdown.png)
 3. Click "Events" at the top of the page.
@@ -15,7 +15,7 @@ nav_order: 11
 ![](../assets/images/event_explorer.png)
 5. Select the date range in the "From" and "To" fields for workshops you would like to include.
 6. Select "NEW UBC Library Research Commons Workshops Registration Form" in the "Booking Form" field.
-  > NOTE: It is important to select the form beginning with "NEW".
+    > NOTE: It is important to select the form beginning with "NEW".
 7. Select "Research Commons" in the "Category" field.
 8. Click "Submit". (Any Research Common's workshop held during this time period will appear below.)
 9. Click "Export Data".
@@ -43,7 +43,7 @@ nav_order: 11
 25. Click the "Update consent status for existing contacts" radio button.
 ![](../assets/step_3.png)
 26. In the "Describe where the contacts are from and how consent was obtained..." box, enter wording to the effect of:
-  > Contacts imported from UBC Library LibCal database. Consent explicitly acquired through workshop registration form, which asks participants whether they would like to receive the UBC Library Research Commons Newsletter.
+    > Contacts imported from UBC Library LibCal database. Consent explicitly acquired through workshop registration form, which asks participants whether they would like to receive the UBC Library Research Commons Newsletter.
 27. Click the "Import" button in the bottom-right corner.
 
 That's it! You should receive a confirmation email, like the one below, with import information regarding your contact list.
