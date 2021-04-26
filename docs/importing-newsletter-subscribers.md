@@ -32,7 +32,7 @@ nav_order: 11
 16. Open a new worksheet within the current workbook, and paste the data using "Paste Values". (This will import values, but not table formatting.)
 17. Delete the first, original worksheet.
 18. Save the file as a CSV.
-19. Login to Envoke ([https://login.envoke.com/login.html](https://login.envoke.com/login.html)).
+19. Login to Envoke at [https://login.envoke.com/login.html](https://login.envoke.com/login.html).
 20. From the top-left "Contacts" dropdown, select "Import".
 ![](../assets/images/contacts_dropdown.png)
 21. Drag or click anywhere within the upload box to import your file.
