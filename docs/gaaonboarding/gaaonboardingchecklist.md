@@ -19,9 +19,9 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
      - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.
 1. \[    \] **On-site only:** You have completed the Koerner Library Safety training and submitted the accompanying checklist to your team lead.
 1. \[    \] You have completed the <b>six</b> online courses, printed certificates of proof, and submitted them to your team lead:
-   - \[    \] **ONLINE** [New Worker Safety Training <b>PART 1</b> AND <b>PART 2</b>](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=7)
-   - \[    \] **ONLINE** [Preventing and Addressing Workplace Bullying & Harassment (B&H)](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=6)
-   - \[    \] **ONLINE** [Violence in the Workplace](https://www.hse2.ubc.ca/moodle/course/index.php?categoryid=13)
+   - \[    \] **ONLINE** [New Worker Safety Training <b>PART 1</b> AND <b>PART 2</b>](https://wpl.ubc.ca/browse/srs/mandatory/courses/wpl-srs-newsot)
+   - \[    \] **ONLINE** [Preventing and Addressing Workplace Bullying & Harassment (B&H)](https://wpl.ubc.ca/browse/srs/mandatory/courses/wpl-srs-bulhar)
+   - \[    \] **ONLINE** [Violence in the Workplace](https://wpl.ubc.ca/browse/srs/mandatory/courses/wpl-srs-wpvptr)
    - \[    \] **ONLINE** [Privacy Matters Training <b>PART 1</b> AND <b>PART 2</b>](https://privacymatters.ubc.ca/fundamentals-training)
  
 1. \[    \] You have reviewed the [payroll procedures](https://ubc-library-rc.github.io/rc-docs/docs/gaaonboarding/payroll.html) and discussed hour allotments with your team lead.
