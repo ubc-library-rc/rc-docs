@@ -15,8 +15,9 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
    - \[    \] KS1 Form-UBC Library Authorization Form
    - \[    \] Personal Data Form
    - \[    \] Direct Deposit Form (for payroll)-only required if new employee
-   - \[    \] **Foreign Students only**-Study permit (VISA) and SIN 
+   - \[    \] **International Students only**-Study permit (VISA) and SIN 
      - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.
+     - if your permit expires during the term, please advise your Team Lead well in advance. Team Leads, please notify Library HR when permits change or are updated.
 1. \[    \] **On-site only:** You have completed the Koerner Library Safety training and submitted the accompanying checklist to your team lead.
 1. \[    \] You have completed the <b>six</b> online courses, printed certificates of proof, and submitted them to your team lead:
    - \[    \] **ONLINE** [New Worker Safety Training <b>PART 1</b> AND <b>PART 2</b>](https://wpl.ubc.ca/browse/srs/mandatory/courses/wpl-srs-newsot)
