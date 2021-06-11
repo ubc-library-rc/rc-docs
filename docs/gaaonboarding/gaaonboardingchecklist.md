@@ -17,7 +17,7 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
    - \[    \] Direct Deposit Form (for payroll)-only required if new employee
    - \[    \] **International Students only**-Study permit (VISA) and SIN 
      - if you do not yet have a SIN, you must apply immediately. Service Canada instantly gives you a letter confirming you applied for SIN. You must submit this to Library HR while you wait for your SIN to arrive.
-     - if your permit expires during the term, please advise your Team Lead well in advance. Team Leads, please notify Library HR when permits change or are updated.
+     - if your permits will expire during the term, let your Team Lead know when you have updated them in Workday. Team Leads, please notify Library HR to look for the Workday change.
 1. \[    \] **On-site only:** You have completed the Koerner Library Safety training and submitted the accompanying checklist to your team lead.
 1. \[    \] You have completed the <b>six</b> online courses, printed certificates of proof, and submitted them to your team lead:
    - \[    \] **ONLINE** [New Worker Safety Training <b>PART 1</b> AND <b>PART 2</b>](https://wpl.ubc.ca/browse/srs/mandatory/courses/wpl-srs-newsot)
