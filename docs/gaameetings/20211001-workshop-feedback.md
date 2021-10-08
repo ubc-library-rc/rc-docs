@@ -18,7 +18,7 @@ Meeting notes from discussions at the RC GAA Team meeting - October 1, 2021.
 
 - *Likert-scale question(s) about workshop.* Some GAAs suggested adding likert-scale questions about aspects of the workshop (e.g. pacing, participant satisfaction, etc.). Team leads and Eugene discussed this after the meeting and decided to keep the survey short and to emphasize open-ended questions that encourage patrons to provide specific comments and suggestions. For workshops we will ask participants to complete the form during the workshop. We expect this to increase the number of responses; next Term we’ll discuss whether there are still gaps in the kind of information we’re receiving from participants.
 
-- *Feedback form URL.* Jeremy posted information about creating workshop/consult-specific links for feedback. See https://ubc-library-rc.github.io/rc-docs/docs/usingthercspaces/feedback-survey.html 
+- *Feedback form URL.* Jeremy posted information about creating workshop/consult-specific links for feedback. See <https://ubc-library-rc.github.io/rc-docs/docs/usingthercspaces/feedback-survey.html> 
 
 ### Participant experience 
 
