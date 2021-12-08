@@ -24,7 +24,7 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
     * > Only authenticated users can join OFF
     * > Breakout room pre-assign OFF (unless you and your Team Lead decide otherwise)
     * > Automatically record meeting OFF
-![](../../assets/images/recommendedsettings.jpg)   
+![](../../assets/images/recommendedsettings.png)   
 
 # Workaround to fix display issue in Waiting Room
 You should only need to do this once to fix the issue. 
@@ -81,7 +81,6 @@ During the workshop:
 
 After workshop:
 6. Each team does this differently but you will have opportunity to touch base with your teaching partner to debrief what worked, what didn't, areas to improve etc.
-
 
 
 ## Others Responsibilities
