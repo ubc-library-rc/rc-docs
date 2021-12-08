@@ -25,6 +25,11 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
     * > Breakout room pre-assign OFF (unless you and your Team Lead decide otherwise)
     * > Automatically record meeting OFF
 ![](../../assets/images/recommendedsettings.png)   
+  * It is helpful to add your Team Lead and co-facilitator as alternate hosts when you set up your Zoom room. In the case that you have an issue starting your meeting, the Alternative Hosts are able to start the meeting for you. 
+  * When creating a new meeting select "Show" at the bottom of the page. This expands a new set of options including "Alternative Hosts". Y
+![](../../assets/images/zoom-show-options.png)   
+  * You can add multiple alternative hosts. This will only accept UBC domain email addresses associated with the UBC Zoom license. 
+![](../../assets/images/zoom-alternative-hosts.png)   
 
 # Workaround to fix display issue in Waiting Room
 You should only need to do this once to fix the issue. 
