@@ -24,7 +24,7 @@ The Zoom account will be setup within about 2 business days. If you are waiting 
     * > Only authenticated users can join OFF
     * > Breakout room pre-assign OFF (unless you and your Team Lead decide otherwise)
     * > Automatically record meeting OFF
-![](../../assets/images/recommendedsettingswithpasscode.jpg)   
+![](../../assets/images/recommendedsettings.jpg)   
 
 # Workaround to fix display issue in Waiting Room
 You should only need to do this once to fix the issue. 
@@ -38,10 +38,11 @@ You should only need to do this once to fix the issue.
 ![](../../assets/images/checkmark4donothing.png)  
 
 # Recording your sessions / Privacy issues
-  * Please do not record your sessions due to privacy concerns.
+  * Please do not record your sessions due to privacy concerns for interactive workshops. 
   * If your team (including your Team Lead) decides you should record a session, the co-host must announce at the beginning of the session that it is being recorded. 
-  * Also, a note needs to be added in the meeting reminder to let participants know it will be recorded with the suggestion that participants only login with their first names. In the middle of a workshop, change your display name by clicking your name in the Participants list and selecting Rename.
-  ![](../../assets/images/rightclickparticipantname.png)
+  * Before starting to record, allow participants time to change their display name and turn off their camera if they are uncomfortable being in a recording. 
+    * In the middle of a workshop, a participant can change their display name by clicking their name in the Participants list and selecting Rename.
+    ![](../../assets/images/rightclickparticipantname.png)
   
 
 # Roles and responsibilities
@@ -53,12 +54,14 @@ Before workshop:
    1. Two weeks before your workshop, generate a Zoom link for your workshop at <a href="https://zoom.us/meeting" target="_blank">https://zoom.us/meeting</a>. Check with your Team Lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry) to confirm the date and time.<br/>
    2. Once created, send the Zoom link to your Team Lead so they can put it into the event for your participants.
 2. Read through everything you need to do during the workshop and make sure you will be ready to handle these items.
+
 During workshop:
 3. Add attendees from the waitroom into the main session.
 4. Post links in the chat window that your co-host mentions. (This includes where your workshop materials are online and the feedback survey at the end of the workshop.)
-5. Take screenshots of the participant pane at approximately the 15 minute mark for attendance. 
-6. Monitor the chat and participant pane for raised hands and other commentary.
-7. Download screenshots of the whiteboards throughout the session if you use this feature.
+5. Note the number of participants at approximately the 15 minute mark for attendance.
+6. Monitor the chat and participant pane for raised hands and other commentary. Lower raised hands if participants do not.
+7. Take screenshots of whiteboards used throughout the session if you use this feature.
+
 After workshop:
 8. Export the chat for the reference of your co-host and yourself and also in case you did not get to all of the questions.
 9. Enter your attendance numbers in Desktracker.
@@ -77,13 +80,13 @@ During the workshop:
 5. Orient attendees to Zoom features and let the students know they can enter questions in the chat that your partner will answer while you are presenting.    
 
 After workshop:
-6. Touch base with your teaching partner to debrief what worked, what didn't, areas to improve etc.
+6. Each team does this differently but you will have opportunity to touch base with your teaching partner to debrief what worked, what didn't, areas to improve etc.
 
 
 
 ## Others Responsibilities
-1. Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry will put the GAA's zoom link into the reminder email for the event.
-2. Sarah Blay and Brett Dimond will be online for all workshop times in case emails come through [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
+1. Team leads will put the GAA's zoom link into the reminder email for the event.
+2. Brett Dimond will be online for all workshop times in case emails come through [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
 
 # Breakout rooms (Optional)
 Breakout rooms can be used in a variety of scenarios such as when some users are on MACs and others PCs (and the workflows are different) or if you need to give help to a certain individual while the workshop continues.
