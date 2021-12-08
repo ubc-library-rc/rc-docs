@@ -51,7 +51,7 @@ In the teaching pair, or teaching group, you need to first figure out who will b
 ## Host responsibilities (Monitoring chat and keeping workshop running smoothly)
 Before workshop:
 1. Set up the Zoom link for your workshop:
-   1. Two weeks before your workshop, generate a Zoom link for your workshop at <a href="https://zoom.us/meeting" target="_blank">https://zoom.us/meeting</a>. Check with your Team Lead (Allan Cho, Eka Grguric, Jeremy Buhler, Evan Thornberry) to confirm the date and time.<br/>
+   1. Two weeks before your workshop, generate a Zoom link for your workshop at <a href="https://zoom.us/meeting" target="_blank">https://zoom.us/meeting</a>. Check with your Team Lead to confirm the date and time.<br/>
    2. Once created, send the Zoom link to your Team Lead so they can put it into the event for your participants.
 2. Read through everything you need to do during the workshop and make sure you will be ready to handle these items.
 
