@@ -8,7 +8,8 @@ There are two workflows to creating an event in LibCal in the Research Commons. 
 
 ## Steps shared by both workflows
 1. From the LibCal homepage, click **Events** in the top menu bar.
-2. Within the **Modify/View Calendar** field, click **UBC Vancouver Libary Public Events**.
+2. Within the **Modify/View Calendar** field, click **UBC Vancouver Libary Public Events**.  
+{% include tip.html content="For an environment to experiment with and create practice events, click **Sandbox/Tutorial Events**." %}
 3. Click the **+Add New Event** button on the left-hand side of the screen, or double-click the calendar on the date for which you would like to create the event.  
 
 ## Creating online events
