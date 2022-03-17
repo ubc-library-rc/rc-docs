@@ -34,3 +34,7 @@ There are two workflows to creating an event in LibCal in the Research Commons. 
 ![](../../assets/images/unique_survey_link.png)  
 {% include tip.html content="To save an event to return to later without making it public, under the **Publishing Status** section, in the **Status** drop-down menu, select **Unpublished Draft**. Note, this event is visible to other UBC Library LibCal users." %}
 9. Scroll to the bottom of the page and click the **Submit: Add New Event!** button.
+<fieldset class="field-set" markdown="1">
+<legend class="leg-title">Title</legend>
+Here is the content.
+</fieldset>
