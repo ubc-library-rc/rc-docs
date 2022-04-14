@@ -41,39 +41,39 @@ Billie: The GitHub page is available for people to refer to
 ### Academic/research tools
 In preparation for this meeting, participants were asked to think about 1 or 2 tools they've found useful for their research or academic work. Tools can be from a wide range of categories--software, browser plugins, websites, frameworks, workshops, etc.
 
-- Grammarly plugin (Albina): https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en
+- [Grammarly plugin](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en) (Albina): 
     - Proofreads documents right in your browser
-- Wave web-accessibility evaluation tool (Joe): https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
+- [Wave web-accessibility evaluation tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) (Joe):
     - Based on W3C guidelines
-- Quillbot paraphrasing software (Reza): https://quillbot.com/
+- [Quillbot paraphrasing software](https://quillbot.com/) (Reza):
     - Works in either a browser or a word processer
     - Provides great suggestions, particularly if English is not your first language
     - AI-based
     - Use an iterative process: receive feedback, edit, then run it again
-- Atlas TI (Amir): https://atlasti.com/
+- [Atlas TI](https://atlasti.com/) (Amir): 
     - Alternative qualitative-data-analysis software package to NVivo
-- Diigo (Amir): https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh?hl=en
+- [Diigo](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh?hl=en) (Amir):
     - Allows you to take snapshots of texts and images on webpages
     - You can highlight and add comments
-    - See also https://www.scrintal.com/
-- Megasync (Maya): https://mega.nz/startpage
+    - See also [https://www.scrintal.com/](https://www.scrintal.com/)
+- [Megasync](https://mega.nz/startpage) (Maya): 
     - Recently switched from Mendeley to Zotero
     - Megasync allows you to store PDFs in the cloud
     - Great way to save space on your computer
-    - Desktop app: https://mega.io/desktop
+    - Desktop app: [https://mega.io/desktop](https://mega.io/desktop)
     - Reza: You can save documents in the cloud and link them to Zotero
         - This is a great idea for me to include in my next workshop
-- Google Earth Engine (June): https://earthengine.google.com/
+- [Google Earth Engine](https://earthengine.google.com/) (June):
     - A vast database of publicy-accessible planetary-scale imagery
     - Great for weather and climate data
     - Includes a GUI and JavaScript and Python APIs
     - Used it extensively in my research
     - Maya: I second June's recommendation
       - Great for change-over-time analysis, too
-- XMind (Billie): https://www.xmind.net
+- [XMind](https://www.xmind.net) (Billie): 
     - Useful for organizing timelines
     - Very flexible platform
-- Notion (Maria): https://www.notion.so/
+- [Notion](https://www.notion.so/) (Maria): 
     - Great for collaborative work (up to 10 people)
     - Can create small databases
     - Very useful for storing a lot of different types of information together (I use it to organize everything)
@@ -81,29 +81,29 @@ In preparation for this meeting, participants were asked to think about 1 or 2 t
     - Billie: I second that
       - Lots of different templates
       - There is a limit for number of images and collaborators
-- Portable Apps (Jeremy): https://portableapps.com/apps
+- [Portable Apps](https://portableapps.com/apps) (Jeremy): 
     - Repackages open-source apps to work on Windows
       - E.g., slicing and stitching together PDFs, setting up a web server
     - Workaround for workstations where you might not have admin privileges
-- Research Rabbit (Angela): https://www.researchrabbit.ai/
+- [Research Rabbit](https://www.researchrabbit.ai/) (Angela): 
     - Great for literature reviews (the “Spotify of literature reviews")
     - Free and open source
     - Integrating Zotero soon
     - Very intuitive for finding articles
     - Can set up alerts for recent publications
     - Pulls from many journals
-- Yale Mesh analyzer (Prubjot): https://mesh.med.yale.edu/
+- [Yale Mesh analyzer](https://mesh.med.yale.edu/) (Prubjot): 
     - Excellent tool for my work in Health Sciences reviews
     - Can produce an Excel spreadsheet of subject headings for articles side by side
-- Stack Overflow (June): https://stackoverflow.com/
+- [Stack Overflow](https://stackoverflow.com/) (June): 
     - Excellent resource for finding help with coding issues, but also acts as a parent site to many others
       - E.g., 'Stack Overflow Gardening', procedures for applying for jobs, 'Cross-validated' for statistics
-- Radio Garden (Evan): http://radio.garden/visit/sequim-wa/QaI7Xery
+- [Radio Garden](http://radio.garden/visit/sequim-wa/QaI7Xery) (Evan): 
     - Way to explore local music on a global scale using a map interface
-- Tropy (Jess): https://tropy.org/
+- [Tropy](https://tropy.org/) (Jess): 
     - Organizes research photos ('Zotero, but for images')
     - Room for metadata
-- Wombo (Albina): https://www.wombo.art/
+- [Wombo](https://www.wombo.art/) (Albina): 
     - Uses AI to generate images based on text
     - Possible use case: Generating image for dissertation cover based on title
 
