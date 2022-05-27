@@ -57,7 +57,7 @@ Sometimes, however, it's useful to get additional information from a student or 
 
 On the top of the Appointments page, select the "Booking Forms" tab.
 
-![](../../assets/images/libcal_appointments_booking_form_tab.png)
+![](../../assets/images/libcal-appointments-booking-forms-tab.png)
 
 Scroll down to the "Forms" box, and click the "Add New Form" button.
 
