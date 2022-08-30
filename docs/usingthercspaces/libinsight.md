@@ -18,25 +18,25 @@ There are two ways to open LibInsight datasets for data entry. Both methods requ
 ![LibInsight login screen](../../assets/images/libinsight_login.png)
 
 ### Option 1: open dataset with a shortcut URL
-Below are URLs to the datasets frequently used by Koerner Library employees. These may be bookmarked for quick access.
+Below are URLs to the datasets frequently used by Koerner Library employees. These may be bookmarked for quick access. Simply follow the link to open the data entry page.
 
 | dataset | shortcut URL
 | --- | ---
-| Patron questions - Koerner Library | https://libraryubc.libinsight.com/koerner-library  
-| Group presentations - All | https://libraryubc.libinsight.com/group-presentations 
+| Patron questions - Koerner Library | <https://libraryubc.libinsight.com/koerner-library>  
+| Group presentations - All | <https://libraryubc.libinsight.com/group-presentations> 
 
 You may be prompted to login if you haven't recently. After login, re-load the URL to open the dataset.
-{: .warn}
+{: .note}
 
 ### Option 2: open dataset from LibInsight interface
 
 - visit <http://libraryubc.libinsight.com/>
 - Click *CWL authentication* and enter your credentials when prompted
-- On the LibInsight landing page select the desired dataset from the *Record data to* drop-down menu:
+- On the LibInsight landing page select the desired dataset from the *Record Data to* drop-down menu
 	- Patron questions - Koerner Library
 	- Group presentations - All
 
-![LibInsight shortcuts menu](../../assets/images/LibInsight_screencap_shortcuts)
+![LibInsight shortcuts menu](../../assets/images/LibInsight_screencap_shortcuts.png)
 
 
 ## Data entry notes
