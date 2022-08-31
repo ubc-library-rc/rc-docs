@@ -11,19 +11,27 @@ GAAs lead or co-facilitate many of the workshops offered by the UBC Library Rese
 ## Overview
 Once per 4-month term each GAA will attend a fellow GAA's workshop, observe, then provide constructive feedback. The program is collaborative: instructor and observer will meet before the workshop to agree on areas of focus and the type of feedback desired (e.g. an instructor may request feedback about something specific they want to improve).
 
-GAAs will observe colleagues from other Research Commons teams to expose themselves to new ideas and meet other members of the larger group. Each GAA will be an observer **and** an instructor, but they don't necessarily need to work with the same person in both roles.
+This is also an opportunity for GAAs to expose themselves to new ideas and meet other members of the larger group. Each GAA will be an observer **and** an instructor, but they don't necessarily need to work with the same person in both roles.
 
-GAAs in their first term in the Research Commons are still orienting to the work and will not participate in the program until their second 4-month term (Jan-Apr, May-Aug, or Sep-Dec). 
+GAAs in their first term in the Research Commons have the option to participate, but are not required to do so as they are still orienting to the work. If they are comfortable, they are encouraged to participate, as the opportunity to provide mutual feedback can be a way to become more comfortable with their teaching role and to meet others in the RC team.
+
+## Guidelines
+Signup for peer observation typically happens near the start of each term. If possible, observers should work with an instructor from a different GAA team (e.g. a Digital Scholarship GAA could observe a Data GAA workshop). This will help GAAs meet colleagues that they don't normally work closely with. While it may be possible to participate by viewing and providing feedback on a recorded workshop, ideally GAAs will be participating in peer observation synchronously. 
 
 ## Time commitment
-The estimated time commitment is 4 to 4.5 hours per GAA per term, depending on workshop length. The time breakdown below excludes workshop delivery, which is part of normally scheduled work.
+The estimated time commitment is 4 to 4.5 hours, in addition to time spent teaching. A rough breakdown:
 
-- **Introductory meeting.** 0.5 hours, observer and instructor
-- **Workshop.** 1.5-2 hours, observer
-- **Preparing feedback.** 0.5 hours, observer
-- **Follow-up meeting (sharing feedback).** 0.5 hours, observer and instructor
+**As observer**
+- **Introductory meeting.** 0.5 hours
+- **Workshop.** 1.5-2 hours
+- **Preparing feedback.** 0.5 hours
+- **Follow-up meeting (sharing feedback).** 0.5 hours
 
-GAAs are encouraged to meet in real time (face-to-face or on Zoom) for the introductory and follow-up meetings. The observation itself may happen any time in the term, but planning should be early enough to ensure everyone has the opportunity to be both observer and instructor. Team leads will help with initial pairing, but GAAs in observer and instructor roles are expected to schedule their own meetings.
+**As instructor**
+- **Introductory meeting.** 0.5 hours
+- **Follow-up meeting (receiving feedback).** 0.5 hours
+
+GAAs are encouraged to meet in real time (face-to-face or on Zoom) for the introductory and follow-up meetings. Team leads will help with initial pairing, but GAAs in observer and instructor roles are expected to schedule their own meetings.
 
 ## Resources
 
