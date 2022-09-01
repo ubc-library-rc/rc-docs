@@ -48,4 +48,4 @@ For help with these items, contact the UBC Library Research Commons Program Coor
    - Koerner Consult Rooms
    - Koerner Presentation Room
    - Koerner Room 217 where applicable
-1.  \[    \] You understand the **IMPORTANT** step of logging all of your workshops and consults in Desktracker and have received training on how to do so.
+1.  \[    \] You understand the **IMPORTANT** step of logging all of your workshops and consults in LibInsight and have received training on how to do so.
