@@ -8,7 +8,7 @@ nav_order: 2
 # Some notes about harassment
 If you are not comfortable with how a client is speaking or behaving towards you, then:
 1. Get yourself out of the situation immediately. You don't need anyone else's confirmation that you are uncomfortable. Trust your gut and get out / leave Zoom meeting. Any excuse to leave the room (including needing the washroom) will suffice.
-2. **On-site only** Know that you can come and get any of us in the Research Commons (Allan, Sarah, Evan, Jeremy, Eka, Paul, Eugene). If we are all away for some reason, you can also go to the Circulation Desk (3rd Floor) or Reference Help Desk (3rd Floor).
+2. **On-site only** Know that you can come and get any of us in the Research Commons (Jess, Evan, Jeremy, Eka, Paul, Eugene). If we are all away for some reason, you can also go to the Circulation Desk (3rd Floor) or Reference Help Desk (3rd Floor).
 
 The Library fully supports you and your right to feel comfortable in doing your work. You can read about the policies that protect all of us here:
 [https://about.library.ubc.ca/files/2019/06/2019UBCLibraryCodeConductFinal.pdf](https://about.library.ubc.ca/files/2019/06/2019UBCLibraryCodeConductFinal.pdf)
