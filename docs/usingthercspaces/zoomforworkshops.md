@@ -68,7 +68,7 @@ During workshop:
 
 After workshop:
 8. Export the chat for the reference of your co-host and yourself and also in case you did not get to all of the questions.
-9. Enter your attendance numbers in Desktracker.
+9. Enter your attendance numbers in LibInsight.
 
 
 ## Co-host responsibilities (Presenter)
