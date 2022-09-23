@@ -4,14 +4,15 @@ title: Personal introductions, team overviews, intro to peer-observation program
 parent: GAA team meetings
 nav_order: 8
 ---
-## 'All GAAs' meeting, 2022-09-23
+# 'All GAAs' meeting, 2022-09-23
 
 First of three 'All GAAs' meetings this term. Next meeting likely in December. Final meeting likely in April.
 
 **ACTION ITEM** (student employees): Send bio information and picture to Angela for posting on Research Commons' website
+
 **ACTION ITEM** (Evan): Connect with Lily at a future date to discuss career opportunities for GIS/map work within libraries and skillset required
 
-### Attendees:
+## Attendees:
 - Angela Liu
 - Ashley Yue Mao
 - Bamidele Oladipupo
@@ -26,7 +27,7 @@ First of three 'All GAAs' meetings this term. Next meeting likely in December. F
 - Reza Karimi
 - Scott Cameron
 
-### Agenda:
+## Agenda:
 - General welcome (Doug)
 - Introductions (everyone)
 - Purpose/activities/scope of each team (Team Leads)
@@ -34,11 +35,11 @@ First of three 'All GAAs' meetings this term. Next meeting likely in December. F
 - Advice from continuing GAAs to newcomers (Reza and Lily)
 - Roundtable question: What is something you hope to learn or a skill you would like to develop during your work at the Research Commons? (everyone)
 
-#### General welcome (Doug)
+### General welcome (Doug)
 - Looking to integrate service offerings between Research Commons (RC) and Humanities and Social Sciences (HSS)
 - HSS Student Librarians will comprise the 6th team
 
-#### Introductions (everyone)
+### Introductions (everyone)
 
 **Jess**: Digital Scholarship (DS) Librarian
 
@@ -86,7 +87,7 @@ First of three 'All GAAs' meetings this term. Next meeting likely in December. F
 
 2nd GAA for GIT Team soon to be hired.
 
-#### Purpose/activities/scope of each team (Team Leads)
+### Purpose/activities/scope of each team (Team Leads)
 
 **Data Team** (Jeremy):
 - Historically, have seen a high demand for consultations
@@ -111,7 +112,7 @@ First of three 'All GAAs' meetings this term. Next meeting likely in December. F
 **Reference Team** (Keith):
 - Scott and Bamidele will be providing reference support for 6-8 hours per week
 
-#### Peer observation of instruction (Jeremy and Jess)
+### Peer observation of instruction (Jeremy and Jess)
 - Explainer: https://ubc-library-rc.github.io/rc-docs/docs/gaaonboarding/peer_observation.html
 - Started last spring
 - Plan to run once in fall and once in spring
@@ -128,7 +129,7 @@ First of three 'All GAAs' meetings this term. Next meeting likely in December. F
 
 **Angela**: Of course, you are always welcomed to attend each others' workshops, even when not participating in peer observation
 
-#### Advice from continuing GAAs to newcomers (Reza and Lily)
+### Advice from continuing GAAs to newcomers (Reza and Lily)
 
 **Lily**: One thing I enjoy about this position is its flexibility and the opportunity to work on different tasks
 - I engage in one-on-one consults, lead workshops, and participate in a project creating a spatial index
@@ -144,7 +145,7 @@ First of three 'All GAAs' meetings this term. Next meeting likely in December. F
 **Angela**: I want to emphasize your work is very helpful to the Library and will live on for quite some time
 - We are always open to feedback on how things might be improved
 
-#### Roundtable question: What is something you hope to learn or a skill you would like to develop during your work at the Research Commons? (everyone)
+### Roundtable question: What is something you hope to learn or a skill you would like to develop during your work at the Research Commons? (everyone)
 
 **Bamidele**: Interested in opportunities to develop skills working with data and metadata
 
