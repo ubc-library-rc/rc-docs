@@ -7,20 +7,22 @@ nav_order: 2
 
 ## Payroll process for Research Commons Graduate Academic Assistants (GAAs):
 
-Below is an outline of the pay process for GAAs associated with the Research Commons. Please ensure you read the below information thoroughly to insure that you are always paid on time for all hours worked. 
+Below is an outline of the pay process for GAAs associated with the Research Commons. Please ensure you read the information thoroughly to insure that you are always paid on time for all hours worked. 
 
 1. UBC Payroll deposits pay cheques bi-weekly, students must complete the Personal Data Form with direct deposit information if they are a new hire. 
-3. GAAs can self-report their hours on WorkDay once their student worker profile has been set up by HR
+3. GAAs can self-report their hours on WorkDay once their student worker profile has been set up by HR, it is recommended to submit your hours on a weekly basis so no pay periods are missed 
     >Deviations in hours worked generally must be approved ahead of time in consultation with your Team Lead and the Research Commons Coordinator 
-    >it is recommended that GAAs submit their hours on a weekly basis so no pay periods are missed
 4. How to submit hours worked in WorkDay: 
-    > under "applications" select "time" 
-        - hours can be entered for 'this week', 'last week', or 'select week' 
-                *please note: future hours cannot be entered, ensure all hours entered have already been worked* 
-    > select any day from the Calender, this will take you to the full calendar page where you can see the full week
-        - click on any day and a new window will open, from here you can enter time in and time out for all shifts worked
-        - repeat entering in/out time for the week and be sure to "submit" when done
-        - additional instructions and troubleshooting can be found on the UBC IT page: https://ubc.service-now.com/selfservice?id=kb_article&sys_id=9cef88b31b0cac1424c255b62a4bcb02&table=kb_knowledge
+     - under "applications" select "time" 
+     - hours can be entered for 'this week', 'last week', or 'select week' 
+                *please note: future hours cannot be entered, ensure all hours entered have already been worked*         
+     - select any day from the Calender, this will take you to the full calendar page where you can see the full week
+     - click on any day and a new window will open, from here you can enter time in and time out for all shifts worked
+     - repeat entering in/out time for the week and be sure to "submit" when done
+     
+     
+
+>additional instructions and troubleshooting can be found on the UBC IT page: https://ubc.service-now.com/selfservice?id=kb_article&sys_id=9cef88b31b0cac1424c255b62a4bcb02&table=kb_knowledge
             
 
 For information on paydays and pay periods, please refer to the following, taken from <a href="https://finance.ubc.ca/payroll/your-pay">https://finance.ubc.ca/payroll/your-pay</a>.
