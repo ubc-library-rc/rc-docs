@@ -9,8 +9,8 @@ nav_order: 10
 Depending on the needs of the user, the following actions may be required:
 1. Place the whiteboard in a visible location for entering patrons to see, and include a message regarding the day and time the event will occur
 2. Retrieve the microphone from the large-printer room (497A)
-  - Located in top-left cabinets
-  - Replace batteries, if needed
+    - Located in top-left cabinets
+    - Replace batteries, if needed
 3. From the AV control panel, ensure the presentation screen is down
 4. Ensure adapter is available (e.g., USB-C to HDMI)
 5. Close and lock sliding-glass doors
