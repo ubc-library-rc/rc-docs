@@ -8,12 +8,13 @@ nav_order: 10
 # Digital Scholarship Lab (Room 497)
 Depending on the needs of the user, the following actions may be required:
 1. Place the whiteboard in a visible location for entering patrons to see, and include a message regarding the day and time the event will occur
-2. Retrieve the microphone from the large-printer room (497A)
+2. Fetch the podium from the large-printer room (497A)
+3. Retrieve the microphone from the large-printer room
     - Located in top-left cabinets
     - Replace batteries, if needed
-3. From the AV control panel, ensure the presentation screen is down
-4. Ensure adapter is available (e.g., USB-C to HDMI)
-5. Close and lock sliding-glass doors
+4. From the AV control panel, ensure the presentation screen is down
+5. Ensure adapter is available (e.g., USB-C to HDMI)
+6. Close and lock sliding-glass doors
 
 # Presentation Room (Room 548 and 552) Use
 [Using the Microphones](#using-the-microphones)
