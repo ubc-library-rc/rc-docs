@@ -16,7 +16,7 @@ NOTE: For an environment to experiment and create practice events, click **Sandb
 
 ## Creating online events
 4. From the drop-down menu, select the **Research Commons Events - ONLINE** template, then click **Continue**.
-5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**.  
+5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**. Within the **Event Description** box, remember to add the email address of the Event Organizer in the footer text.  
 
 NOTE: For repeating events, click the **This Event Repeats** checkbox and the **Multi-Date Picker** radio button. Then, select the dates in the **Pick Date** box and click the **Add Date** button. Note, if you include workshop identifiers in your **Friendly URL** (e.g., git-and-github6), you will need to manually update these for each workshop.  
 
