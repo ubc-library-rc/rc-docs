@@ -10,7 +10,7 @@ There are two workflows to creating an event in LibCal in the Research Commons. 
 1. From the LibCal homepage, click **Events** in the top menu bar.
 2. Within the **Modify/View Calendar** field, click **UBC Vancouver Libary Public Events**.  
 
-NOTE: For an environment to experiment and create practice events, click **Sandbox/Tutorial Events**.  
+> **NOTE:** For an environment to experiment and create practice events, click **Sandbox/Tutorial Events**.  
 
 3. Click the **+Add New Event** button on the left-hand side of the screen, or double-click the date on the calendar for which you would like to create the event.  
 
@@ -18,7 +18,7 @@ NOTE: For an environment to experiment and create practice events, click **Sandb
 4. From the drop-down menu, select the **Research Commons Events - ONLINE** template, then click **Continue**.
 5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**. Within the **Event Description** box, remember to add the email address of the Event Organizer in the footer text.  
 
-NOTE: For repeating events, click the **This Event Repeats** checkbox and the **Multi-Date Picker** radio button. Then, select the dates in the **Pick Date** box and click the **Add Date** button. Note, if you include workshop identifiers in your **Friendly URL** (e.g., git-and-github6), you will need to manually update these for each workshop.  
+> **NOTE:** For repeating events, click the **This Event Repeats** checkbox and the **Multi-Date Picker** radio button. Then, select the dates in the **Pick Date** box and click the **Add Date** button. Note, if you include workshop identifiers in your **Friendly URL** (e.g., git-and-github6), you will need to manually update these for each workshop.  
 
 ![](../../assets/images/repeating_event.PNG)  
 
@@ -28,7 +28,9 @@ NOTE: For repeating events, click the **This Event Repeats** checkbox and the **
 
 7. In the **Reminder Email Body** box, enter the event's Zoom link in the *two* pre-designated locations, along with the Zoom Meeting ID and Passcode.  
 
-![](../../assets/images/zoom_info_reminder_email.png)
+![](../../assets/images/zoom_info_reminder_email.png)  
+
+>⚠️ **CAUTION:** *The registration close time and the time the Reminder Email is sent should match.* If the Reminder Email is sent before registration closes, any patron that registers after that point will not receive the Zoom link to the workshop.  
 
 ## Creating in-person events
 4. From the drop-down menu, select the **Research Commons Events - IN PERSON** template, then click **Continue**.
@@ -44,6 +46,6 @@ NOTE: For repeating events, click the **This Event Repeats** checkbox and the **
 
 ![](../../assets/images/unique_survey_link.png)  
 
-NOTE: To save an event to return to later without making it public, under the **Publishing Status** section, in the **Status** drop-down menu, select **Unpublished Draft**. Note, this event is visible to other UBC Library LibCal users.  
+> **NOTE:** To save an event to return to later without making it public, under the **Publishing Status** section, in the **Status** drop-down menu, select **Unpublished Draft**. Note, this event is visible to other UBC Library LibCal users.  
 
 9. Scroll to the bottom of the page and click the **Submit: Add New Event!** button.
