@@ -43,6 +43,9 @@ For help with these items, contact the UBC Library Research Commons Program Coor
    - You have been added to LibCal (have an account). 
    - You have received training on how to setup your appointments in LibCal.
 1. \[    \] **On-site only:** You have had a site tour of Koerner Library including:
+> :warning: **Important:**<br>
+> - For guidance on providing a site orientation for blind/low-vision employees, refer to [this guidance](https://www.aoda.ca/developing-a-web-accessibility-business-case-for-your-organization-overview/). (Scroll down to the following question: *How Do I Show A Blind Worker Around Our Workplace?*)
+> - For techniques on how to serve as a Sighted Guide, see [this PDF](https://www.brailleinstitute.org/wp-content/uploads/2018/05/Braille-Institute-Sighted-Guide-Techniques-to-Help-You-Help-Others.pdf).
    - Koerner 4th and 5th floors
    - Koerner Staff Room 545 - including loaner laptops, adapters, mics etc.
    - Koerner Consult Rooms
