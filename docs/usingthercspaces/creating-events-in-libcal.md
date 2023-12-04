@@ -38,6 +38,8 @@ There are two workflows to creating an event in LibCal in the Research Commons. 
 4. From the drop-down menu, select the **Research Commons Events - IN PERSON** template, then click **Continue**.
 5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**, **Event Organizer**.
 
+> **NOTE:** Please include the location of the event (building and room number) in the **Event Description** field. This assists the transfer process into the UBC Events calendar, as there is no field that indicates room number (only building).
+
 > **NOTE:** If you select 'Research Commons' for the **Event Organizer** field, you will need to log-in to the 'Research Commons' LibCal account to modify the event. Login information for this account can be found at 'T:\Research Commons\Administrative\RC_logins.docx'.
 
 6. Under the **Event Location** section, click the **In-Person Location/Space** drop-down menu, scroll down to the Research Commons, and select your desired space.  
