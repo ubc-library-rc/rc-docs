@@ -16,7 +16,9 @@ There are two workflows to creating an event in LibCal in the Research Commons. 
 
 ## Creating online events
 4. From the drop-down menu, select the **Research Commons Events - ONLINE** template, then click **Continue**.
-5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**. Within the **Event Description** box, remember to add the email address of the Event Organizer in the footer text.  
+5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**, **Event Organizer**. Within the **Event Description** box, remember to add the email address of the **Event Organizer** in the footer text.  
+
+> **NOTE:** If you select 'Research Commons' for the **Event Organizer** field, you will need to log-in to the 'Research Commons' LibCal account to modify the event. Login information for this account can be found at 'T:\Research Commons\Administrative\RC_logins.docx'.
 
 > **NOTE:** For repeating events, click the **This Event Repeats** checkbox and the **Multi-Date Picker** radio button. Then, select the dates in the **Pick Date** box and click the **Add Date** button. Note, if you include workshop identifiers in your **Friendly URL** (e.g., git-and-github6), you will need to manually update these for each workshop.  
 
@@ -34,7 +36,10 @@ There are two workflows to creating an event in LibCal in the Research Commons. 
 
 ## Creating in-person events
 4. From the drop-down menu, select the **Research Commons Events - IN PERSON** template, then click **Continue**.
-5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**.
+5. Enter values for the following fields: **Date**, **Start Time**, **End Time**, **Event Title**, **Event Description**, **Event Organizer**.
+
+> **NOTE:** If you select 'Research Commons' for the **Event Organizer** field, you will need to log-in to the 'Research Commons' LibCal account to modify the event. Login information for this account can be found at 'T:\Research Commons\Administrative\RC_logins.docx'.
+
 6. Under the **Event Location** section, click the **In-Person Location/Space** drop-down menu, scroll down to the Research Commons, and select your desired space.  
 
 ![](../../assets/images/in-person_event_location.png)  
