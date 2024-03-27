@@ -26,6 +26,8 @@ Welcome aboard! Here are the logistical things we need to take care of with you.
    - \[    \] **ONLINE** [Privacy Matters Training <b>PART 1</b> AND <b>PART 2</b>](https://privacymatters.ubc.ca/fundamentals-training)
  
 1. \[    \] You have reviewed the [payroll procedures](https://ubc-library-rc.github.io/rc-docs/docs/gaaonboarding/payroll.html) and discussed hour allotments with your team lead.
+   - \[    \] Familiarize yourself with submitting hours into WorkDay for payroll [here is a helpful document from UBCO https://finance-operations.ok.ubc.ca/wp-content/uploads/sites/79/2021/09/Workday-Wednesday-Submitting-Time-and-Absence-September-8.pdf
+   - \[    \] Hours worked must be tracked in the Student Workers Excel Spreadsheet after every shift in addition to weekly submissions on WorkDay
 
 ### Items you will need to perform your job:
 
