@@ -9,7 +9,7 @@ nav_order: 10
 GAAs lead or co-facilitate many of the workshops offered by the UBC Library Research Commons (RC). The RC is committed to improving its workshops and to helping GAAs develop their instruction and facilitation skills. The _peer observation of instruction_ program is one way to provide a mutually beneficial learning experience for GAAs. 
 
 ## Overview
-Once per 4-month term each GAA will attend a fellow GAA's workshop, observe, then provide constructive feedback. The program is collaborative: instructor and observer will meet before the workshop to agree on areas of focus and the type of feedback desired (e.g. an instructor may request feedback about something specific they want to improve).
+Once per 4-month term each GAA can attend a fellow GAA's workshop, observe, then provide constructive feedback. The program is collaborative: instructor and observer will meet before the workshop to agree on areas of focus and the type of feedback desired (e.g. an instructor may request feedback about something specific they want to improve).
 
 This is also an opportunity for GAAs to expose themselves to new ideas and meet other members of the larger group. Each GAA will be an observer **and** an instructor, but they don't necessarily need to work with the same person in both roles.
 
@@ -22,16 +22,15 @@ Signup for peer observation typically happens near the start of each term. If po
 The estimated time commitment is 4 to 4.5 hours, in addition to time spent teaching. A rough breakdown:
 
 **As observer**
-- **Introductory meeting.** 0.5 hours
+- **Introduction.** 0.5 hours
 - **Workshop.** 1.5-2 hours
-- **Preparing feedback.** 0.5 hours
-- **Follow-up meeting (sharing feedback).** 0.5 hours
+- **Preparing and sharing feedback.** 1 hour
 
 **As instructor**
-- **Introductory meeting.** 0.5 hours
-- **Follow-up meeting (receiving feedback).** 0.5 hours
+- **Introduction.** 0.5 hours
+- **Follow-up and receiving feedback.** 0.5 hours
 
-GAAs are encouraged to meet in real time (face-to-face or on Zoom) for the introductory and follow-up meetings. Team leads will help with initial pairing, but GAAs in observer and instructor roles are expected to schedule their own meetings.
+Instructors can provide observers with prompts of what they are most interested in getting feedback on. GAAs can meet in-person, over Zoom, or via email for the the introduction and follow-ups. Team leads will help with initial pairing, but GAAs in observer and instructor roles are expected to schedule their own meetings. 
 
 ## Resources
 
