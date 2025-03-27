@@ -1,6 +1,7 @@
 title: UBC Library Research Commons
 description: Documentation
-remote_theme: ubc-library-rc/rc-workshop-template
+remote_theme: ubc-library-rc/rc-theme
+color_scheme: rc
 
 footer_content: "<a href=\"https://github.com/ubc-library-rc/rc-docs/\">View in GitHub</a>"
 
