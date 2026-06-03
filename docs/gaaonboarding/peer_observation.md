@@ -41,7 +41,7 @@ Instructors can provide observers with prompts of what they are most interested 
 - [RISE model for meaninful feedback](../gaameetings/ISW_docs/RISE_rubric-peer-web.pdf)
 
 ### Pre-observation questions
-Questions that the observer may wish to ask the instructor during the introductory meeting, adapted from [CTLT Pre-Observation Questions](http://wiki.ubc.ca/images/6/6c/PRTPreObservationQsPDF_(2018_05).pdf) and University of Toronto Guide to [Peer Observation of Teaching](http://teaching.utoronto.ca/wp-content/uploads/2017/01/Peer-Observation-of-Teaching-Guide.pdf).
+Questions that the observer may wish to ask the instructor during the introductory meeting, adapted from [CTLT Pre-Observation Questions](http://wiki.ubc.ca/images/6/6c/PRTPreObservationQsPDF_(2018_05).pdf) and University of Toronto Guide to [Peer Observation of Teaching](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf).
 
 - What is the content and structure of the workshop?
 - What are the goals an objectives of the workshop?
