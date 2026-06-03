@@ -15,11 +15,11 @@ nav_order: 6
 ## Extra help 
 ### For You (as a GAA)
 
-[http://www.hr.ubc.ca/health/files/UBC-Assisting-SF-in-Distress.pdf](http://www.hr.ubc.ca/health/files/UBC-Assisting-SF-in-Distress.pdf)
+- https://hr.ubc.ca/sites/default/files/documents/Orange%20folder_FINAL.pdf.
 
 ### For your clients
 
-- [https://facultystaff.students.ubc.ca/assisting-students-distress](https://facultystaff.students.ubc.ca/assisting-students-distress) 
-- Cheat sheet: [https://facultystaff.students.ubc.ca/sites/facultystaff.students.ubc.ca/files/Green%20Folder_V8.pdf](https://facultystaff.students.ubc.ca/sites/facultystaff.students.ubc.ca/files/Green%20Folder_V8.pdf)
+- https://facultystaff.students.ubc.ca/health-wellbeing/assisting-students-distress
+  
 
 
