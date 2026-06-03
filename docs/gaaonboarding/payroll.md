@@ -11,7 +11,7 @@ Below is an outline of the pay process for GAAs associated with the Research Com
 
 1. UBC Payroll deposits pay cheques bi-weekly, students must complete the Personal Data Form with direct deposit information if they are a new hire. 
 3. GAAs can self-report their hours on WorkDay once their student worker profile has been set up by HR, it is recommended to submit your hours on a weekly basis so no pay periods are missed 
-    >Deviations in hours worked generally must be approved ahead of time in consultation with your Team Lead and the Research Commons Coordinator 
+    >Deviations in hours worked generally must be approved ahead of time in consultation with your Team Lead and the Koerner Library Program Coordinator 
 4. How to submit hours worked in WorkDay: 
      - under "applications" select "time" 
      - hours can be entered for 'this week', 'last week', or 'select week' 
@@ -31,6 +31,6 @@ For information on paydays and pay periods, please refer to the following, taken
 
 You can access a PDF copy of UBC's current pay schedule by clicking the button under "Payroll Calendar" at <a href="https://finance.ubc.ca/payroll/procedures-resources-administrators">https://finance.ubc.ca/payroll/procedures-resources-administrators</a>.
 
-In the event you have any questions regarding your pay associated with your Research Commons position, please contact the Research Commons Coordinator.
+In the event you have any questions regarding your pay associated with your Research Commons position, please contact the Koerner Library Program Coordinator.
 
 Thank you for taking the time to review this information. We're excited to have you on our team, and we look forward to working with you!
