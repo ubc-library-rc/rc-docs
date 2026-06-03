@@ -13,7 +13,7 @@ We use the LibCal Appointments module.
 You should see an Appointments tab in the main menu:
 ![](../../assets/images/libcalappointmentsmenu.png)
 
-If you do not see this tab, reach out to your Team Lead or Brett.
+If you do not see this tab, reach out to your Team Lead.
 
 The Appointments landing page looks like this:
 
