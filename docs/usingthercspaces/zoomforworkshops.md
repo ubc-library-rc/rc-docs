@@ -89,7 +89,7 @@ After workshop:
 
 ## Others Responsibilities
 1. Team leads will put the GAA's zoom link into the reminder email for the event.
-2. Brett Dimond will be online for all workshop times in case emails come through [research.commons@ubc.ca](mailto:research.commons@ubc.ca).
+
 
 # Breakout rooms (Optional)
 Breakout rooms can be used in a variety of scenarios such as when some users are on MACs and others PCs (and the workflows are different) or if you need to give help to a certain individual while the workshop continues.
